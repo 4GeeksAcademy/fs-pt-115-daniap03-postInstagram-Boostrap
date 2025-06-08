@@ -1,0 +1,18 @@
+
+.card{
+    margin:auto;
+    height: 400px;
+}
+.card-header{
+    display: flex;
+}
+h5{
+    width: 400px;
+}
+.likes{
+    margin-top: -10px;
+}
+.card-text p{
+    display: flex;
+    align-items: flex-end;
+}
